@@ -3,9 +3,6 @@ using namespace std;
 
 int main()
 {
-
-	
-
 	int nodes, edges;
 	cin>>nodes;
 	cin>>edges;
